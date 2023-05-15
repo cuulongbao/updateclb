@@ -1,0 +1,212 @@
+.red-input
+{
+	color:red !important;
+	font-weight:bold  !important;
+}
+
+.cbtooltip 
+{
+  	position: relative;
+  	display: inline-block;
+  	border-bottom: 1px dotted black;
+}
+.custom-tooltip
+{
+	background-color: blue !important;
+  	color: #fff;
+  	text-align: center;
+  	border-radius: 6px;
+  	padding: 5px 0;
+  	position: absolute;
+  	z-index: 1;
+  	bottom: 125%;
+  	left: 50%;
+  	margin-left: -60px;
+  	opacity: 0;
+  	transition: opacity 0.3s;
+  	font-size: 24dp;
+}
+.cbtooltip .tooltiptext 
+{
+  	visibility: hidden;
+  	background-color: #555;
+  	color: #fff;
+  	text-align: center;
+  	border-radius: 6px;
+  	padding: 5px 0;
+  	position: absolute;
+  	z-index: 1;
+  	bottom: 125%;
+  	left: 50%;
+  	margin-left: -60px;
+  	opacity: 0;
+  	transition: opacity 0.3s;
+}
+
+.cbtooltip .tooltiptext::after 
+{
+  	content: "";
+  	position: absolute;
+  	top: 100%;
+  	left: 50%;
+  	margin-left: -5px;
+  	border-width: 5px;
+  	border-style: solid;
+  	border-color: #555 transparent transparent transparent;
+}
+
+.cbtooltip:hover .tooltiptext 
+{
+  	visibility: visible;
+  	opacity: 1;
+}
+
+.form-style-3 fieldset
+{
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	margin: 0px 0px 10px 0px;
+	border: 1px solid #FFD2D2;
+	padding: 10px;
+	//background: #FFF4F4;
+	//box-shadow: inset 0px 0px 15px #FFE5E5;
+	//-moz-box-shadow: inset 0px 0px 15px #FFE5E5;
+	//-webkit-box-shadow: inset 0px 0px 15px #FFE5E5;
+}
+.btn-liner
+{
+	background-image: linear-gradient(to bottom,#FFD2D2, white);
+}
+.btn-liner-red
+{
+	background-image: linear-gradient(to bottom,#FF0000,#FF8888, white);
+    border:2px solid rgb(200,200,200);    
+
+}
+.btn-liner-green
+{
+	background-image: linear-gradient(to bottom,#00FF00, white);
+}
+.btn-liner-blackgreen
+{
+	background-image: linear-gradient(to bottom,#00FF00,#00FF00, white);
+}
+
+
+.btn-liner-white
+{
+	background-image: linear-gradient(to bottom,#EEEEEE, white);
+}
+.cb-box-border
+{
+	border: solid rgb(255,200,200) 1px;
+}
+.boxshadow
+{
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+.form-style-3 fieldset{
+	box-shadow:  #FFD2D2 0.95px 0.95px 2.6px;
+}
+.form-style-3 fieldset legend
+{
+	color: #bb6099;
+	border-top: 1px solid #FFD2D2;
+	border-left: 1px solid #FFD2D2;
+	border-right: 1px solid #FFD2D2;
+	border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+	-moz-border-radius: 5px 5px 0px 0px;
+	//background: #FFF4F4;
+	padding: 0px 8px 3px 8px;
+	box-shadow: -0px -1px 2px #F1F1F1;
+	-moz-box-shadow:-0px -1px 2px #F1F1F1;
+	-webkit-box-shadow:-0px -1px 2px #F1F1F1;
+	//font-weight: normal;
+	font-size: 20px;
+	width:60% !important;
+	background-image: linear-gradient(to bottom,#FFD2D2, white);
+	
+}
+
+.custom-control-label
+{
+	cursor:pointer !important;
+}
+.cb-bottom-border
+{
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+}
+.cb-bottom-border:focus
+{
+	border-bottom: 5px solid #FFD2D2;
+	
+}
+.cb-circle{
+	//border: 1px solid #FFD2D2;
+	
+	//border-radius: 50px ;
+	
+}
+
+div#pop-up {
+   display: none;
+   position: absolute;
+   min-width: 720px;
+   padding: 10px;
+   background: rgb(255, 255, 255);
+   color: #000000;
+   border: 1px solid white;
+   font-size: 90%;
+   border-radius: 5px ;
+   
+ }
+ 
+ 
+ 
+.Nháp{
+	background-color:rgb(100,255,100) !important;
+}
+ 
+.Tạo-đơn-hàng{
+	background-color:rgb(150,255,150) !important;
+}
+.Còn-hàng{
+	background-color:rgb(255,150,150) !important;
+}
+.Đã-giao{
+	background-color:rgb( 150,150,255) !important;
+}
+.Đang-vận-chuyển{
+	background-color:rgb(200,200,255) !important;
+}
+.Kết-thúc{
+	background-color:yellow !important;
+}
+.Trả-hàng{
+	background-color:rgb(255,100,100) !important;
+}
+.Đã-hủy{
+	background-color:rgb(255,50,50) !important;
+}
+.Mất-hàng{
+	background-color:rgb(255,0,0) !important;
+}
+ 
+@media print {
+    .example-print {
+       font-size: xx-large;
+    }
+}
+
+.shop-active{
+	background-image: linear-gradient(to bottom,#D2D2D2, white);!important;
+}
+
+#navbarTogglerDemo03 .nav-link:hover{
+	background-image: linear-gradient(to bottom,#D5D5D5, white);!important;
+	border-bottom: 1px solid black;
+}
