@@ -21,8 +21,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "444681e76281843238d074366bad26ac",
-            "length": 792307
+            "sum": "3af4faca500627a0d3e631f902ed61ea",
+            "length": 793370
       },
       "data.zip": {
             "file": "data.zip",
@@ -31,7 +31,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "c65f100cef1c8bfeb4433751a251d676",
+            "sum": "17de334cff505d9d933327ce13fcac64",
             "length": 5737
       },
       "frontend.zip": {
@@ -46,8 +46,8 @@
       },
       "i18n.zip": {
             "file": "i18n.zip",
-            "sum": "1832e4538b8ac66e82c515d3d68993cd",
-            "length": 30390
+            "sum": "b092da5a3e54faf34b1bffce66c8d080",
+            "length": 30564
       },
       "jquery.shCircleLoader.css": {
             "file": "jquery.shCircleLoader.css",
@@ -61,13 +61,13 @@
       },
       "lte.zip": {
             "file": "lte.zip",
-            "sum": "28a9fae5c1e19f505fae330311810242",
-            "length": 412411
+            "sum": "0dba32a7c808ed4d02cbedd240289c90",
+            "length": 412419
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "aad3764495b346a8ff98b1df337d9210",
-            "length": 3932640
+            "sum": "1027c7afb19ddd72a1472c86c8b4c1e9",
+            "length": 3932768
       },
       "spring-boot-shop-sample-master-chat-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-chat-0.0.1-SNAPSHOT.jar",
