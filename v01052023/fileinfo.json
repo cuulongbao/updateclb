@@ -21,8 +21,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "3af4faca500627a0d3e631f902ed61ea",
-            "length": 793370
+            "sum": "f4fff5dc1c172fadc064c687fbaa9b28",
+            "length": 793444
       },
       "data.zip": {
             "file": "data.zip",
@@ -31,7 +31,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "17de334cff505d9d933327ce13fcac64",
+            "sum": "b05862bb54586eab366d914233ef98d0",
             "length": 5737
       },
       "frontend.zip": {
@@ -61,13 +61,13 @@
       },
       "lte.zip": {
             "file": "lte.zip",
-            "sum": "0dba32a7c808ed4d02cbedd240289c90",
-            "length": 412419
+            "sum": "5e806a945175d30018845111ebf186cd",
+            "length": 412428
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "1027c7afb19ddd72a1472c86c8b4c1e9",
-            "length": 3932768
+            "sum": "eaf2c909974921b1815f17a7a5251059",
+            "length": 3933146
       },
       "spring-boot-shop-sample-master-chat-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-chat-0.0.1-SNAPSHOT.jar",
