@@ -6,8 +6,8 @@
       },
       "bluebootstrap.zip": {
             "file": "bluebootstrap.zip",
-            "sum": "1ffdef0a757dbf3eda46f7c92352a0c9",
-            "length": 4207995
+            "sum": "5815a68f809e12eb38c04d420f45c093",
+            "length": 4207352
       },
       "chat.zip": {
             "file": "chat.zip",
@@ -21,8 +21,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "364861631f7cdd7f324902dea4718a9b",
-            "length": 797611
+            "sum": "139fa47badbbcdc6df05dbe8240bc14c",
+            "length": 797009
       },
       "data.zip": {
             "file": "data.zip",
@@ -31,7 +31,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "d879ed5e34580785eea55eddf97bb91e",
+            "sum": "a2741272e54a163852990bf3a2500607",
             "length": 5935
       },
       "frontend.zip": {
@@ -66,8 +66,8 @@
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "cefa3e2ce685a312ebad7df8eccfb690",
-            "length": 4207110
+            "sum": "fafa6a8307192d03a983091b60008c6f",
+            "length": 4207638
       },
       "splide-4.1.3.zip": {
             "file": "splide-4.1.3.zip",
