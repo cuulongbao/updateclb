@@ -6,8 +6,8 @@
       },
       "bluebootstrap.zip": {
             "file": "bluebootstrap.zip",
-            "sum": "429176a411c72b709002bce7a31610c7",
-            "length": 4207675
+            "sum": "98f20c7e5bbb3c2367539cbfa531158e",
+            "length": 4207846
       },
       "chat.zip": {
             "file": "chat.zip",
@@ -21,8 +21,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "999b2b65a1d0c2659127d3ac7ee7e963",
-            "length": 798592
+            "sum": "1c88f88c084db583ec5cb5630ad17e52",
+            "length": 798481
       },
       "data.zip": {
             "file": "data.zip",
@@ -31,7 +31,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "e633c43563c92e3f28cc0055e13170b1",
+            "sum": "f7c2f60018d71710948ac5ad548e0493",
             "length": 5935
       },
       "frontend.zip": {
@@ -56,8 +56,8 @@
       },
       "lte.zip": {
             "file": "lte.zip",
-            "sum": "6207bd8602b209c4ba02ea8bc84a0afc",
-            "length": 419946
+            "sum": "140bd16b48d19117bc0552f71670726f",
+            "length": 419957
       },
       "product.xlsx": {
             "file": "product.xlsx",
@@ -66,8 +66,8 @@
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "3c43c01af49fb9b63662285bdd9bbd67",
-            "length": 4206648
+            "sum": "a274d1ab67cf5900e0fe06421b6b31b1",
+            "length": 4207483
       },
       "splide-4.1.3.zip": {
             "file": "splide-4.1.3.zip",
