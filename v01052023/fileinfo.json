@@ -6,8 +6,8 @@
       },
       "bluebootstrap.zip": {
             "file": "bluebootstrap.zip",
-            "sum": "93d678f3bffb91040e90ada6d3013da8",
-            "length": 4206815
+            "sum": "691f03618e2b07a361f413411fd1e8ce",
+            "length": 4207296
       },
       "chat.zip": {
             "file": "chat.zip",
@@ -21,8 +21,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "6dd24a710aa8bc7bcf7f253b510aaeab",
-            "length": 798439
+            "sum": "9e5441a0ff908f5aabffd1bee9fc6380",
+            "length": 799062
       },
       "data.zip": {
             "file": "data.zip",
@@ -31,7 +31,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "2060d8d026b91bf32004bf97ca702f90",
+            "sum": "407b64126497871779ab49348436ffa2",
             "length": 5935
       },
       "frontend.zip": {
@@ -41,8 +41,8 @@
       },
       "i18n.zip": {
             "file": "i18n.zip",
-            "sum": "adf8951c9735f61857f53252c215403a",
-            "length": 31239
+            "sum": "428a43b7742d8f4b27c3d0608473f2ef",
+            "length": 31260
       },
       "jquery.shCircleLoader.css": {
             "file": "jquery.shCircleLoader.css",
@@ -66,8 +66,8 @@
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "20ee0936f48bfe49bd0a6d6a6215a786",
-            "length": 4207272
+            "sum": "1373b16702d2b70486787982a05eac7f",
+            "length": 4207290
       },
       "splide-4.1.3.zip": {
             "file": "splide-4.1.3.zip",
