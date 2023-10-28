@@ -6,8 +6,13 @@
       },
       "bluebootstrap.zip": {
             "file": "bluebootstrap.zip",
-            "sum": "6ea1716cc9e23d9c5002186c15adec4f",
-            "length": 4207471
+            "sum": "9f204ce8e245fd15834cfa2bf2399530",
+            "length": 4207864
+      },
+      "cb-form.css": {
+            "file": "cb-form.css",
+            "sum": "aa6ba6583220e8729f4fbef279c45626",
+            "length": 621
       },
       "chat.zip": {
             "file": "chat.zip",
@@ -21,8 +26,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "fdc96429f29531c8f1da5f767cb54d14",
-            "length": 799255
+            "sum": "2b2bec1e54b24c14df56545e129f59cf",
+            "length": 798951
       },
       "data.zip": {
             "file": "data.zip",
@@ -31,7 +36,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "afee54cebc9dc1bbe44a555bb0a0ebf0",
+            "sum": "0dc1ec3fa59919dadccd12f51947c615",
             "length": 5935
       },
       "frontend.zip": {
@@ -66,8 +71,8 @@
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "c8ecd3ba7c0cfcf4336ebf838086ef92",
-            "length": 4207266
+            "sum": "181abbd016a33b787f8686cbc08c8809",
+            "length": 4207333
       },
       "splide-4.1.3.zip": {
             "file": "splide-4.1.3.zip",
