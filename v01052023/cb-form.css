@@ -14,7 +14,7 @@
   background-color:white;
 }
 .form-group{
-	margin-bottom:0;
+	margin-bottom:0 !important;
 }
 .form-group>label{
   padding-left: 1px;
@@ -26,6 +26,18 @@
   margin-bottom:0;
   z-index:100;
 }
+
+.form-group>.thanhchu{
+  padding-left: 1px;
+  padding-right: 1px;
+  position:relative;
+  top:5px;
+  left:2px;
+  overflow:hidden;
+  margin-bottom:0;
+  z-index:100;
+}
+
 .form-group .readnumbertext{
 	margin-top:-10px;
 }
