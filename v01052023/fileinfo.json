@@ -6,8 +6,8 @@
       },
       "bluebootstrap.zip": {
             "file": "bluebootstrap.zip",
-            "sum": "a6f35afb488556fb20ee289cecaf9ffc",
-            "length": 4207072
+            "sum": "1ffdce761c670ef1d804370e2315e1f4",
+            "length": 4207223
       },
       "cb-form.css": {
             "file": "cb-form.css",
@@ -26,8 +26,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "c719b2f082c8cdc3bcc2247c86705e33",
-            "length": 800048
+            "sum": "4859abe4f8e2347bfd90378ffa61d31e",
+            "length": 800340
       },
       "data.zip": {
             "file": "data.zip",
@@ -36,8 +36,8 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "9bfceb6dc199f7bd1d1d3abb01850cc8",
-            "length": 6088
+            "sum": "14511e579bea02645b5ea88c7578458c",
+            "length": 6368
       },
       "frontend.zip": {
             "file": "frontend.zip",
@@ -71,8 +71,8 @@
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "0b5c64b4b36916cf90e861b53ac77954",
-            "length": 4207678
+            "sum": "1578729fae964a37d43e27dd8794673a",
+            "length": 4207964
       },
       "splide-4.1.3.zip": {
             "file": "splide-4.1.3.zip",
@@ -151,7 +151,7 @@
       },
       "spring-boot-shop-sample-master-user-timeproduct-service-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-user-timeproduct-service-0.0.1-SNAPSHOT.jar",
-            "sum": "3dfd32fd29aa37966d21d59572308168",
-            "length": 3789
+            "sum": "89a2c62af75db17c58c1106c9b2106ed",
+            "length": 3791
       }
 }
