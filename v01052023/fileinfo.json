@@ -6,8 +6,8 @@
       },
       "bluebootstrap.zip": {
             "file": "bluebootstrap.zip",
-            "sum": "d60d32b72dbb6a1569aa026ab9b7d073",
-            "length": 4208115
+            "sum": "6bc9cfb6baa2d898e6e60a2ce88e2fe1",
+            "length": 4207649
       },
       "cb-form.css": {
             "file": "cb-form.css",
@@ -26,8 +26,8 @@
       },
       "custom.zip": {
             "file": "custom.zip",
-            "sum": "0c2c4352a2dc59229e818480d21befb6",
-            "length": 800594
+            "sum": "eb67509bd7e535062a135f91687d5a87",
+            "length": 800291
       },
       "data.zip": {
             "file": "data.zip",
@@ -36,7 +36,7 @@
       },
       "fileinfo.json": {
             "file": "fileinfo.json",
-            "sum": "1993b507da711848462ff63f6f1241d0",
+            "sum": "634b585399a933babef5e1aafc58d029",
             "length": 6368
       },
       "frontend.zip": {
@@ -61,8 +61,8 @@
       },
       "lte.zip": {
             "file": "lte.zip",
-            "sum": "67e831f2dc8011b7f7b0dcb5a2d350cf",
-            "length": 427649
+            "sum": "2be6849dafb250326e2be1374507cd46",
+            "length": 427665
       },
       "product.xlsx": {
             "file": "product.xlsx",
@@ -71,8 +71,8 @@
       },
       "shoppingcart.zip": {
             "file": "shoppingcart.zip",
-            "sum": "e07b3e80e6da9985e3c67e64f980f02e",
-            "length": 4207599
+            "sum": "b477587bbb1a71efb674bacb437953e7",
+            "length": 4206976
       },
       "splide-4.1.3.zip": {
             "file": "splide-4.1.3.zip",
@@ -81,77 +81,77 @@
       },
       "spring-boot-shop-sample-master-chat-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-chat-0.0.1-SNAPSHOT.jar",
-            "sum": "3cc1c975037f5f88d7b1bdd2febb41c6",
-            "length": 36901
+            "sum": "4a2e2016990870305e9928ac6bcc4ee6",
+            "length": 36902
       },
       "spring-boot-shop-sample-master-common-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-common-0.0.1-SNAPSHOT.jar",
-            "sum": "0c96a8ba69fbf2a3e938272d613cd5e9",
-            "length": 128828
+            "sum": "beef866ac9a15cace18ffe2747479094",
+            "length": 128829
       },
       "spring-boot-shop-sample-master-common-model-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-common-model-0.0.1-SNAPSHOT.jar",
-            "sum": "be3cb48d3ba37e31a652658d5517860d",
-            "length": 125688
+            "sum": "8b9325a22f0291283f8898e9d8392230",
+            "length": 125689
       },
       "spring-boot-shop-sample-master-config-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-config-0.0.1-SNAPSHOT.jar",
-            "sum": "ed50b243847ffd85b6f334c4e73eef20",
+            "sum": "e9167bc9429b1cd5fcace9f10ef93d3c",
             "length": 69619
       },
       "spring-boot-shop-sample-master-customer-controller-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-customer-controller-0.0.1-SNAPSHOT.jar",
-            "sum": "778e28436ac85a5fe3d40d3690c2fa8d",
+            "sum": "8a0d50adddb9ad9f6025051b2a4b1c08",
             "length": 472116
       },
       "spring-boot-shop-sample-master-data-manager-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-data-manager-0.0.1-SNAPSHOT.jar",
-            "sum": "a28d6ca3782bf4d8305c2c896bf0aa2c",
-            "length": 20065
+            "sum": "a19ee785f3b5e79e334ef82a5f13e40f",
+            "length": 20064
       },
       "spring-boot-shop-sample-master-database-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-database-0.0.1-SNAPSHOT.jar",
-            "sum": "c4b00aad90f4fa090940734c1594da07",
-            "length": 87914
+            "sum": "d8f18dc8196910092d163bace3e90780",
+            "length": 87915
       },
       "spring-boot-shop-sample-master-frontend-controller-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-frontend-controller-0.0.1-SNAPSHOT.jar",
-            "sum": "55a32c109966fefbc57051983e746175",
+            "sum": "5001975600dd92ab901ca91f2f8b3d37",
             "length": 9693
       },
       "spring-boot-shop-sample-master-online-store-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-online-store-0.0.1-SNAPSHOT.jar",
-            "sum": "2218cd4dd1c7478e0ab051b7f67a7a21",
+            "sum": "15aeabd0245d6ee08eaa606d02d08b7d",
             "length": 184318
       },
       "spring-boot-shop-sample-master-poidata-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-poidata-0.0.1-SNAPSHOT.jar",
-            "sum": "9a1d2f38ab28a5d03dcb5e8604f96bef",
-            "length": 13451
+            "sum": "44b1d49d1bcc0677eec0b7dabf4949a1",
+            "length": 13450
       },
       "spring-boot-shop-sample-master-rest-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-rest-0.0.1-SNAPSHOT.jar",
-            "sum": "a1f64e9dd1f13b002146a494d5ed68ec",
+            "sum": "d7474ae0381ba36961214c454abcbd58",
             "length": 87176
       },
       "spring-boot-shop-sample-master-service-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-service-0.0.1-SNAPSHOT.jar",
-            "sum": "258c8dbf6b72815c371b846cd5feab09",
+            "sum": "8953876ba0ab488f5fe545b26cda98aa",
             "length": 239504
       },
       "spring-boot-shop-sample-master-updatedb-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-updatedb-0.0.1-SNAPSHOT.jar",
-            "sum": "e83d9abd9066e9b4ac999ce2168e0e80",
-            "length": 4443
+            "sum": "4a696bd320a194ffc40b9d01514e5642",
+            "length": 4444
       },
       "spring-boot-shop-sample-master-user-controller-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-user-controller-0.0.1-SNAPSHOT.jar",
-            "sum": "daa10f231ed4b364d2418cbd5ab074e2",
-            "length": 398261
+            "sum": "9b5158b5e8b84014e9e4133e7e5e9367",
+            "length": 398407
       },
       "spring-boot-shop-sample-master-user-timeproduct-service-0.0.1-SNAPSHOT.jar": {
             "file": "spring-boot-shop-sample-master-user-timeproduct-service-0.0.1-SNAPSHOT.jar",
-            "sum": "4200c01961662893cdad87996aee3d9e",
+            "sum": "f9ddada7b898abf3d3f10624954d3eaf",
             "length": 3790
       }
 }
